@@ -1,6 +1,5 @@
-# Tribe Gender Survey Data Analysis
-
-Welcome to the Tribe Gender Survey data analysis repository! Thank you for your interest in contributing to our project. 
+# Tribe Data Team
+Welcome to the Tribe data team repository! Thank you for your interest in contributing to our project. 
 
 We welcome contributions of all kinds, including bug fixes, new features, and improvements to our documentation. Please follow the guidelines below to ensure a smooth contribution process.
 
